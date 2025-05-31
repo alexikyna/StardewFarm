@@ -396,7 +396,7 @@ public class GameView extends JFrame{
 
 
 		this.textUpdate = new JLabel();
-		this.textUpdate.setText("Welcome to Farmville!!");
+		this.textUpdate.setText("Welcome to StarDew Farm!!");
 		this.textUpdate.setBounds(970, 5, 500, 90);
 		this.mainFrame.add(this.textUpdate);
 
