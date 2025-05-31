@@ -95,5 +95,5 @@ A Java-based farming simulation game inspired by Stardew Valley.
 6. Harvest - Collect mature crops
 
 ## Requirements
-- Java JDK 8 or higher
+- Java JDK 11 or higher
 - Image files in the same directory as source code
